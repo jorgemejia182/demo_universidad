@@ -23,3 +23,8 @@ function calculate(in_data) {
     const result = in_data * 0.17;
     return result;
 }
+
+function x() {
+    const a =  2+2;
+    return a
+}
