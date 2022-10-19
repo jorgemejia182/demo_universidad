@@ -1,0 +1,17 @@
+Comandos básicos
+
+#Revisar status de cambios
+git status
+
+#Agregar todos archivos a commit
+git add .
+
+#Agregar un sólo archivo al commit
+git add nombre_archivo.extension
+
+#Crear un commit 
+git commit -m "nombre del commit"
+
+#Guardar los cambios del commit
+git push origin nombre_branch
+
