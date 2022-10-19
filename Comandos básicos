@@ -18,3 +18,10 @@ git push origin nombre_branch
 #Switchear a nueva branch
 git checkout -b "nombre del branch"
 
+
+#Guardar cambios en memoria para hacer merge posteriormenmte
+git stash
+
+#Obtener los cambios guardados en memoria para poder haver merge
+git stash pop
+
