@@ -28,3 +28,8 @@ function x() {
     const a =  2+2;
     return a
 }
+
+
+function abc() {
+    return true;
+}
