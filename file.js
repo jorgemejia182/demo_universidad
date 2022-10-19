@@ -5,3 +5,8 @@ function x(){
     const p = 1 * 3;
     return true;
 }
+
+function calculate(in_data) {
+    const result = in_data * 0.17;
+    return result;
+}
