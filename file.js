@@ -18,3 +18,8 @@ function map(f, a) {
   let numbers = [0, 1, 2, 5, 10];
   let cube = map(f, numbers);
   console.log(cube);
+
+function calculate(in_data) {
+    const result = in_data * 0.17;
+    return result;
+}
