@@ -28,6 +28,12 @@ function x() {
     const a =  2+2;
     return a
 }
+function u (){
+  const y = 5 / 10;
+
+  return true;
+}
+ 
 
 
 function abc() {
